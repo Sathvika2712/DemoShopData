@@ -1,0 +1,51 @@
+product_id,product_name,category,price,rating
+P0001,Classic Cotton T-Shirt,Fashion,19.99,4.3
+P0002,Slim Fit Jeans,Fashion,54.5,4.1
+P0003,Running Sneakers,Fashion,88.0,4.6
+P0004,Leather Belt,Fashion,32.75,4.0
+P0005,Canvas Backpack,Fashion,47.2,4.4
+P0006,Silk Scarf,Fashion,24.9,3.8
+P0007,Wool Cardigan,Fashion,62.1,4.5
+P0008,Athletic Socks Pack,Fashion,14.25,3.9
+P0009,Denim Jacket,Fashion,79.95,4.2
+P0010,Smart Casual Blazer,Fashion,109.0,4.7
+P0011,Ultra HD Smart TV,Electronics,649.99,4.5
+P0012,Wireless Noise-Canceling Headphones,Electronics,229.0,4.6
+P0013,Bluetooth Soundbar,Electronics,179.5,4.2
+P0014,4K Action Camera,Electronics,259.0,4.1
+P0015,Portable Bluetooth Speaker,Electronics,89.99,4.3
+P0016,Smart Home Hub,Electronics,139.0,4.0
+P0017,"Gaming Laptop 15""",Electronics,1249.0,4.4
+P0018,Mechanical Keyboard,Electronics,119.5,4.2
+P0019,Wireless Gaming Mouse,Electronics,69.95,4.1
+P0020,Noise-Isolating Earbuds,Electronics,59.5,3.9
+P0021,Stainless Steel Cookware Set,Home & Kitchen,199.0,4.6
+P0022,Adjustable Standing Desk,Home & Kitchen,329.0,4.4
+P0023,Memory Foam Pillow,Home & Kitchen,38.75,4.2
+P0024,Air Purifier with HEPA Filter,Home & Kitchen,179.99,4.5
+P0025,Smart LED Floor Lamp,Home & Kitchen,89.0,4.1
+P0026,Ceramic Dinnerware Set,Home & Kitchen,74.95,4.0
+P0027,Electric Pressure Cooker,Home & Kitchen,129.5,4.3
+P0028,Bamboo Cutting Board Set,Home & Kitchen,34.2,4.2
+P0029,Robot Vacuum Cleaner,Home & Kitchen,299.0,4.4
+P0030,Luxe Throw Blanket,Home & Kitchen,56.8,4.1
+P0031,Organic Facial Cleanser,Health & Beauty,22.5,4.0
+P0032,Vitamin C Serum,Health & Beauty,35.0,4.3
+P0033,Herbal Sleep Aid Capsules,Health & Beauty,27.8,3.8
+P0034,Electric Toothbrush Kit,Health & Beauty,69.99,4.5
+P0035,Aromatherapy Diffuser,Health & Beauty,39.95,4.2
+P0036,Hair Repair Mask,Health & Beauty,24.6,4.1
+P0037,Men's Grooming Set,Health & Beauty,48.0,4.0
+P0038,Fitness Smartwatch,Health & Beauty,149.0,4.4
+P0039,Resistance Band Kit,Health & Beauty,29.99,4.1
+P0040,Protein Powder Blend,Health & Beauty,54.2,4.3
+P0041,Hardcover Mystery Novel,Books & Media,24.99,4.2
+P0042,Self-Help Guidebook,Books & Media,18.5,3.9
+P0043,Children's Picture Story,Books & Media,14.75,4.4
+P0044,Cookbook for Beginners,Books & Media,28.0,4.1
+P0045,Graphic Novel Deluxe Edition,Books & Media,32.99,4.5
+P0046,Travel Photography Book,Books & Media,27.5,4.0
+P0047,Science Fiction Anthology,Books & Media,21.0,4.2
+P0048,Language Learning Workbook,Books & Media,19.25,3.8
+P0049,Historical Biography,Books & Media,26.8,4.1
+P0050,Inspirational Poetry Collection,Books & Media,16.95,4.0
